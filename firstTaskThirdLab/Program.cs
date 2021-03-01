@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp2
+namespace firstTaskThirdLab
 {
     public class Program
     {
